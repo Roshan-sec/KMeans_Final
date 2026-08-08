@@ -1,4 +1,4 @@
-# Exp 02 K-Means Clustering
+# Exp 03 K-Means Clustering
 **Date:**
 
 ## AIM:
